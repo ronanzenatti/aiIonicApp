@@ -1,0 +1,6 @@
+{
+	"appId": "com.ronanzenatti.aiionicapp",
+	"appName": "AI Ionic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

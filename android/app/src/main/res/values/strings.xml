@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AI Ionic</string>
+    <string name="title_activity_main">AI Ionic</string>
+    <string name="package_name">com.ronanzenatti.aiionicapp</string>
+    <string name="custom_url_scheme">com.ronanzenatti.aiionicapp</string>
+</resources>
